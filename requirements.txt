@@ -1,0 +1,4 @@
+optimum[onnxruntime]
+optimum[exporters]
+diffusers
+accelerate
